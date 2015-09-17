@@ -468,7 +468,7 @@ ul.sub-menu {
 }
 
 .contact-info.bottom {
-  padding-left: 25px;
+  padding-left: 248px;
 }
 
 .bottom > address {
@@ -543,10 +543,10 @@ ul.sub-menu {
 }
 
 #home-slider .slide-text{
-  position: absolute;
-  top: 50px;
-  left: 0;
-  width: 450px;
+    position: absolute;
+    top: 69px;
+    left: 141px;
+    width: 450px;
 }
 
 .animate-in .slide-text {
